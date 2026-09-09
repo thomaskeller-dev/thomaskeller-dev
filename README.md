@@ -1,92 +1,75 @@
 # Hi, I'm Thomas 👋
 
-I'm a Junior Software Developer based in Germany 🇩🇪, currently focused on Artificial Intelligence, LLMs, and AI Agents.
+I'm **Thomas Keller**, a Junior Developer based in Germany 🇩🇪
 
-I enjoy learning how intelligent systems work and building small practical projects with Python and modern AI tools.
+I'm interested in **Artificial Intelligence, LLMs, and AI Agents**, and I'm currently improving my skills by learning and experimenting with modern AI technologies.
 
-## About Me
+---
 
-* 🤖 Interested in AI Agents and Agentic AI
-* 🧠 Learning Large Language Models (LLMs)
-* 🐍 Mostly working with Python
-* 🔗 Exploring RAG, tool calling, and MCP
-* 🛠️ Building small AI projects to improve my skills
-* 📚 Currently learning about agent memory and planning
-* 🌱 Always learning and experimenting with new technologies
+## 🧠 AI & Agentic AI
 
-## Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/AI%20Agents-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLMs-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agent%20Memory-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agent%20Planning-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tool%20Calling-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MCP-111111?style=for-the-badge" />
+</p>
 
-**Languages**
+### AI Tools & Frameworks
 
-* Python
-* JavaScript
-* SQL
+<p>
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
+</p>
 
-**AI & LLM**
+---
 
-* OpenAI API
-* Hugging Face
-* LangChain
-* LangGraph
-* RAG
-* Vector Databases
-* AI Agents
+## 💻 Languages
 
-**Tools**
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts)](https://skillicons.dev)
 
-* Git
-* GitHub
-* Docker
-* VS Code
-* Linux
+---
 
-## What I'm Learning
+## 🛠️ Tools & Technologies
 
-Currently, I'm learning more about:
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,vscode,linux,postgres,redis)](https://skillicons.dev)
 
-* AI Agent architectures
-* Multi-Agent Systems
+---
+
+## 🌱 Currently Learning
+
+* AI Agent Architecture
 * Agent Memory
-* Planning and Reasoning
+* Agent Planning & Reasoning
 * Retrieval-Augmented Generation (RAG)
-* Model Context Protocol (MCP)
 * Tool-Using Agents
+* Model Context Protocol (MCP)
+* Multi-Agent Systems
+* Large Language Models
 * Small Language Models
 
-## Projects
+---
 
-I'm currently working on small projects such as:
+### A little more about me
 
-### Simple AI Agent
+```python
+thomas = {
+    "role": "Junior Developer",
+    "location": "Germany 🇩🇪",
+    "language": ["Python", "JavaScript", "TypeScript"],
+    "focus": ["AI Agents", "LLMs", "RAG"],
+    "currently_learning": [
+        "Agent Memory",
+        "Agent Planning",
+        "MCP",
+        "Multi-Agent Systems"
+    ]
+}
+```
 
-A Python agent that can use tools and perform simple multi-step tasks.
-
-### RAG Assistant
-
-A small question-answering system that retrieves information from documents before generating an answer.
-
-### Agent Memory Playground
-
-Experiments with short-term and long-term memory for AI agents.
-
-### MCP Experiments
-
-Small examples for understanding how AI agents can connect to external tools using MCP.
-
-## Current Goal
-
-My goal is to improve my Python and AI engineering skills and gradually move toward building reliable AI Agent systems.
-
-I'm especially interested in understanding how agents can:
-
-* plan tasks
-* use tools
-* remember previous information
-* retrieve external knowledge
-* work together with other agents
-
-## Let's Connect
-
-I'm always interested in learning from other developers, contributing to beginner-friendly open-source projects, and collaborating on AI experiments.
-
-Thanks for visiting my profile! 🚀
+> Learning, experimenting, and building my way into AI engineering. 🤖
